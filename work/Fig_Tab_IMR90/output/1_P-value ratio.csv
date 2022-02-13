@@ -1,0 +1,5 @@
+group,Armatus,Arrowhead,CaTCH,CHAC,CHDF,ClusterTAD,deDoc,DI,EAST,GMAP,HiCExplorer,HiCseg,IC-Finder,InsulationScore,Matryoshka,MrTADFinder,MSTD,OnTAD,Spectral,SpectralTAD,TADBD,TADbit,TADtree,TopDom
+CTCF,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.714,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.857,1.0,1.0,1.0,1.0,1.0
+Housekeeping_genes,1.0,0.857,1.0,1.0,1.0,1.0,1.0,1.0,0.571,1.0,1.0,1.0,1.0,1.0,1.0,0.286,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RAD21,1.0,0.857,1.0,1.0,1.0,1.0,1.0,1.0,0.857,1.0,1.0,1.0,1.0,1.0,1.0,0.857,1.0,1.0,0.429,1.0,0.857,1.0,1.0,1.0
+TSS,1.0,0.857,1.0,1.0,1.0,1.0,1.0,1.0,0.143,1.0,1.0,1.0,1.0,1.0,1.0,0.857,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0

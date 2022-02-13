@@ -1,0 +1,9 @@
+S = 50
+M = 10
+p = 3
+q = 12
+gamma = 500
+contact_map_path = /homeb/LiuKun/zongshu/simulate_data/simulate1/sim_ob_0.04.chr5,/homeb/LiuKun/zongshu/simulate_data/simulate1/sim_ob_0.08.chr5,/homeb/LiuKun/zongshu/simulate_data/simulate1/sim_ob_0.12.chr5,/homeb/LiuKun/zongshu/simulate_data/simulate1/sim_ob_0.16.chr5,/homeb/LiuKun/zongshu/simulate_data/simulate1/sim_ob_0.20.chr5
+contact_map_name = chr1,chr2,chr3,chr4,chr5
+N = 1085,1085,1085,1085,1085
+output_directory = DOMAINS/simulate1

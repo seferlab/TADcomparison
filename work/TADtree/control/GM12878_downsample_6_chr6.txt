@@ -1,0 +1,9 @@
+S = 50
+M = 10
+p = 3
+q = 12
+gamma = 500
+contact_map_path = /homeb/LiuKun/zongshu/GM12878_downsample_diff_reso/50k_KR_downsample_ratio_6.chr6
+contact_map_name = chr6
+N = 1026
+output_directory = /homeb/LiuKun/zongshu/TADtree/DOMAINS/downsample_6

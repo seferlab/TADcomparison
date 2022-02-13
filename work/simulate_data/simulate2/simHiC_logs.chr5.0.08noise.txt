@@ -1,0 +1,1 @@
+MaxRandomNoisePerBin 24

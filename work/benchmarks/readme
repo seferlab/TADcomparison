@@ -1,0 +1,5 @@
+These are the .txt files concerning the controlled benchmarks.
+
+maptest_*.txt contain the simulated HiC maps. The format is a 500x500 matrix.
+
+input_seg_*.txt contain the imposed segmentation from which the maptest_*.txt has been generated. Each line represents one domain, in the 1st and 2nd columns there are respectively the first and last bins of the domain.

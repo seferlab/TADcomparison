@@ -1,0 +1,9 @@
+S = 50
+M = 10
+p = 3
+q = 12
+gamma = 500
+contact_map_path = /home/chengzj/Rao/HIC001/HIC001_50k_KR.chr1,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr2,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr3,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr4,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr5,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr6,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr7,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr8,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr9,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr10,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr11,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr12,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr13,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr14,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr15,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr16,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr17,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr18,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr19,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr20,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr21,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chr22,/home/chengzj/Rao/HIC001/HIC001_50k_KR.chrX
+contact_map_name = chr1,chr2,chr3,chr4,chr5,chr6,chr7,chr8,chr9,chr10,chr11,chr12,chr13,chr14,chr15,chr16,chr17,chr18,chr19,chr20,chr21,chr22,chrX
+N = 1495,1459,1188,1146,1085,1026,954,878,847,813,810,803,691,644,615,542,487,468,354,378,288,307,931
+output_directory = /home/chengzj/TADtree_HIC001_039/DOMAINS/HIC001
